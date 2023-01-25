@@ -1,7 +1,5 @@
-/* Fill in details and REMOVE ALL COMMENTS */
 {
     "ADMINS": [
-        /* list of IDs of users allowed to admin the bot */
     ],
     "token": "MTA2NzU5OTA3NjEwMDY4MTg0OA.GI7czC.3TLSQI7KAgnaK535XGpFWp9Mhw0BvVXxN_8omI",
     "SENTRY_DSN": "MTA2NzU5OTA3NjEwMDY4MTg0OA.GI7czC.3TLSQI7KAgnaK535XGpFWp9Mhw0BvVXxN_8omI",
