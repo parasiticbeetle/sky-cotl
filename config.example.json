@@ -3,9 +3,9 @@
     "ADMINS": [
         /* list of IDs of users allowed to admin the bot */
     ],
-    "token": "",
-    "SENTRY_DSN": "your discord bot token goes here",
-    "bot_prefix": "!", // choose any string that doesn't conflict with other bots present e.g. "z!"
+    "token": "MTA2NzU5OTA3NjEwMDY4MTg0OA.GI7czC.3TLSQI7KAgnaK535XGpFWp9Mhw0BvVXxN_8omI",
+    "SENTRY_DSN": "MTA2NzU5OTA3NjEwMDY4MTg0OA.GI7czC.3TLSQI7KAgnaK535XGpFWp9Mhw0BvVXxN_8omI",
+    "bot_prefix": "!sky", 
     "DATABASE_NAME": "sky",
     "DATABASE_USER": "db_user",
     "DATABASE_PASS": "db_user_password",
@@ -18,7 +18,6 @@
         "ios_stable":  0
     },
     "EMOJI": {
-        /* custom emoji overrides. see utils/Emoji.py for defaults that can be overriden */
         "NO": 624094243371352084,
         "YES": 624094243329146900
     },
@@ -28,7 +27,6 @@
     "max_attachments": 3,
     "log_channel": 0,
     "cogs": [
-        /* list of cogs to load */
         "Basic",
         "Reload",
         "Welcomer",
@@ -39,7 +37,6 @@
         "Music"
     ],
      "roles": {
-         /* reaction:role associations */
         "\uD83D\uDD6F": 0
     },
     "admin_roles": [],
